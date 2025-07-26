@@ -5853,7 +5853,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2272f791-f42b-4d32-bb03-9f513b3cf01c")
+			(uuid "2272f791-f42b-4d32-bb03-9f513b3cf01d")
 		)
 		(instances
 			(project ""
@@ -6486,7 +6486,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2272f791-f42b-4d32-bb03-9f513b3cf01c")
+			(uuid "2272f791-f42b-4d32-bb03-9f513b3cf01e")
 		)
 		(instances
 			(project ""
@@ -7077,7 +7077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
+		(property "Footprint" "Chof747_Connectors:JST_XH_B4B-XH-A_1x04_P2.54mm_Vertical"
 			(at 104.14 147.32 0)
 			(effects
 				(font
