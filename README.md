@@ -36,3 +36,4 @@ A board that bears the MCU and brain of the Filamentalist Box it has
 ## Revision History
 
 **V1.0** - Send to production 26.07.2025
+**Breakout Board V1.1** - separated clock lines for the three scales
