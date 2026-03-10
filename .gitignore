@@ -16,3 +16,4 @@ resources/
 
 #Step files of platine
 *.step
+scale/bom
