@@ -985,7 +985,7 @@
 		(descr "RP2040 Zero Board")
 		(tags "rp2040")
 		(property "Reference" "U1"
-			(at 0 -0.5 180)
+			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "3afb886b-8997-4652-a9df-28068c4f4197")
